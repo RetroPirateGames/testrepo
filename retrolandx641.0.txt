@@ -1,0 +1,12 @@
+name="RetroLand Build"
+url="https://archive.org/details/retrolandx641.0.zip"
+img="https://i.imgur.com/BSaAsPO.png"
+fanart="https://i.imgur.com/7FgPx60.jpg"
+description="RetroLand Gaming build for Kodi Windows x64 edition"
+
+
+name="RetroLand Gaming build for Kodi firestick edition(under contruction)"
+url="https://archive.org/download/TESTBUILD/TEST%20BUILD.zip"
+img="http://i.imgur.com/LARsCe9.png"
+fanart="http://i.imgur.com/4QgJwVY.jpg"
+description="A wizard for testing purposes only"
